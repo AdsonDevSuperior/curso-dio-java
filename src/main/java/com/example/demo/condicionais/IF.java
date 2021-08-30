@@ -1,4 +1,4 @@
-package com.example.demo.ifs;
+package com.example.demo.condicionais;
 
 public class IF {
 

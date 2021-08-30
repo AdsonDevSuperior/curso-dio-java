@@ -1,4 +1,4 @@
-package com.example.demo.ifs;
+package com.example.demo.condicionais;
 
 public class Logicos {
 
@@ -17,6 +17,16 @@ public class Logicos {
 			System.out.println("Atendeu a segunda condição ");
 		}
 		
+		final var letra1 = "B";
+		  
+		if ("A".equals(letra1)) {
+			System.out.println("É a letra A ");
+			
+		}
+		
+		if (!letra.equals("A")) {
+			System.out.println("Não é a letra A");
+		}
 	}
 
 }
